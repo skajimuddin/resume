@@ -1,0 +1,144 @@
+%-------------------------
+% Resume in Latex
+% Author: Sk Ajimuddin
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \ifx&#3&%
+      \else
+        \textit{\small #3} & \textit{\small #4} \\
+      \fi
+    \end{tabular*}\vspace{-6pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \item
+  \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+    \small#1 & \textbf{\small #2}\\
+  \end{tabular*}\vspace{-6pt}
+}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+%----------Heading----------
+\begin{center}
+  {\Huge \scshape Sk Ajimuddin} \\ \vspace{4pt}
+  \small
+  \href{tel:+918328939820}{\faPhone\ \underline{+91 83289 39820}} ~
+  \href{mailto:skazimdev@gmail.com}{\faEnvelope\ \underline{skazimdev@gmail.com}} ~
+  \href{https://www.linkedin.com/in/skajimuddin/}{\faLinkedin\ \underline{linkedin.com/in/skajimuddin}} ~
+  \href{https://github.com/skajimuddin}{\faGithub\ \underline{github.com/skajimuddin}}
+\end{center}
+
+%-----------Summary-----------
+\section{Summary}
+Full-Stack Software Engineer with 2+ years of experience across freelance and full-time roles, architecting scalable systems and delivering high-impact business solutions. Specialties include full-stack web architecture and integrating AI-assisted workflows to improve productivity, code quality, and overall delivery speed.
+
+%-----------Experience-----------
+\section{Experience}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {\textbf{Software Developer} $|$ {\normalfont\textit{ASR Hospitals (India) Private Limited, Agartala, Tripura}}}{April 2025 -- June 2025}
+    {}{}
+    \resumeItemListStart
+      \resumeItem{Developing a Laboratory Management Software with role-based access control for lab technicians, doctors, and administrators, ensuring secure and structured workflows.}
+    \resumeItemListEnd
+  \resumeSubheading
+    {\textbf{Software Developer} $|$ {\normalfont\textit{ASTU Creatives Agency, Pune, Maharashtra}}}{April 2022 -- June 2023}
+    {}{}
+    \resumeItemListStart
+      \resumeItem{Developed and maintained dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js), ensuring high performance and scalability.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------Projects-----------
+\section{Key Projects}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {\textbf{Project One} $|$ {\normalfont\textit{React, Node.js, MongoDB}}}{January 2025 -- February 2025}
+    {}{}
+    \resumeItemListStart
+      \resumeItem{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.}
+      \resumeItem{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.}
+    \resumeItemListEnd
+  \resumeSubheading
+    {\textbf{Project Two} $|$ {\normalfont\textit{Python, PostgreSQL, Docker}}}{October 2024 -- December 2024}
+    {}{}
+    \resumeItemListStart
+      \resumeItem{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.}
+      \resumeItem{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------
+\section{Key Certifications}
+\resumeSubHeadingListStart
+  \resumeItem{\href{https://www.udemy.com/certificate/UC-689a510e-ba1f-4bde-a747-4dcb60be473f/}{\textbf{Complete Web Development Course -- Udemy:}} Completed 100+ hours of coursework. built and deployed scalable full-stack applications using the MERN stack, Next.js, Tailwind CSS, PostgreSQL, and Prisma.}
+  \vspace{-5pt}
+  \resumeItem{\href{https://scrimba.com/certificate-cert2uNjfK9m1uNZ5v8RvYFqLcn2NxZ2keLE9bE}{\textbf{Frontend Developer Career Path -- Scrimba:}} Completed 80+ hours of interactive coding. built dynamic, real-world applications focused on accessibility, responsive UI, API integrations, and advanced React.}
+\resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\section{Skills}
+\textbf{Front-End:} HTML5, CSS3, JavaScript (ES6+), React, TypeScript, Tailwind CSS, Shadcn UI \\
+\textbf{Back-End:} Node.js, Express, Fastify, SQL, MongoDB, REST APIs, Firebase \\
+\textbf{Tools \& Technologies:} Git, Postman, Linux, AI Tools, AWS
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Bachelor of Computer Applications (BCA)}{Graduated: 2025}
+    {DRIEMS University, Tangi, Odisha}{CGPA: 8.3 / 10}
+\resumeSubHeadingListEnd
+
+\end{document}
