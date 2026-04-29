@@ -1,7 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777476194.08535 "/home/sk-azim/Desktop/Resume/Sk_Ajimuddin_Resume.tex" "Sk_Ajimuddin_Resume.pdf" "Sk_Ajimuddin_Resume" 1777476194.83296 0
+["pdflatex"] 1777476477.20788 "Sk_Ajimuddin_Resume.tex" "Sk_Ajimuddin_Resume.pdf" "Sk_Ajimuddin_Resume" 1777476477.94172 0
   "/etc/texmf/web2c/texmf.cnf" 1777196440.08591 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/sk-azim/Desktop/Resume/Sk_Ajimuddin_Resume.tex" 1777476191.49461 7855 2c6eae0695af3a5e792ddffb09da867f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -105,9 +104,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1777196476 5467255 9a64d1b40e0b893fc5588ecce9d8accf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1777196606 3345657 2a98f7af3d2d2041a0d6c2122b5aebc1 ""
-  "Sk_Ajimuddin_Resume.aux" 1777476194.76782 933 f4842750de6fa5590a7212f08d759504 "pdflatex"
-  "Sk_Ajimuddin_Resume.out" 1777476194.76882 622 c31e28ec5e600f23c817bfc3eef73fd0 "pdflatex"
-  "Sk_Ajimuddin_Resume.tex" 1777476191.49461 7855 2c6eae0695af3a5e792ddffb09da867f ""
+  "Sk_Ajimuddin_Resume.aux" 1777476477.86839 933 f4842750de6fa5590a7212f08d759504 "pdflatex"
+  "Sk_Ajimuddin_Resume.out" 1777476477.86939 622 c31e28ec5e600f23c817bfc3eef73fd0 "pdflatex"
+  "Sk_Ajimuddin_Resume.tex" 1777476469.62317 7846 60308ca8178378c4abfaba3d8510105e ""
   (generated)
   "Sk_Ajimuddin_Resume.aux"
   "Sk_Ajimuddin_Resume.log"
