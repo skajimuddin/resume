@@ -121,16 +121,16 @@ Full-Stack Software Engineer with \textbf{2+ years} of experience across freelan
     {\textbf{Restaurant Management System}}{}
     {}{}
     \resumeItemListStart
-      \resumeItem{Built a \textbf{full-stack} restaurant management system with \textbf{order, menu, and billing} features, supporting \textbf{multiple roles} (admin, waiter, kitchen) with \textbf{real-time updates} across devices using \textbf{SSE} over a local network.}
-      \resumeItem{Deployed the application locally using \textbf{NSSM} for multi-device access within the restaurant network, currently handling \textbf{300+ orders/week} in a live production environment.}
+      \resumeItem{Built a full-stack restaurant management system with order, menu, and billing features, supporting multiple roles (admin, waiter, kitchen) with real-time updates across devices using SSE over a local network.}
+      \resumeItem{Deployed the application locally using NSSM for multi-device access within the restaurant network, currently handling \textbf{300+} orders per week in a live production environment.}
     \resumeItemListEnd
 
   \resumeSubheading
     {\textbf{\href{https://the-anonify.netlify.app/}{Anonify – Anonymous Social Media Platform {\scriptsize\faIcon{external-link-alt}}}}}{}
     {}{}
     \resumeItemListStart
-      \resumeItem{Developed a privacy-focused PWA using \textbf{React, TypeScript, Node.js, Express.js, and MongoDB} with secure \textbf{JWT + OTP} authentication, dynamic bad-word filtering, and an admin panel.}
-      \resumeItem{Integrated \textbf{AI-powered grammar correction}, \textbf{emoji suggestions}, and keyword-based trending detection.}
+      \resumeItem{Developed a privacy-focused PWA using React, TypeScript, Node.js, Express.js, and MongoDB with secure JWT + OTP-based authentication, dynamic bad-word filtering, and an admin panel.}
+      \resumeItem{Integrated AI-powered grammar correction, emoji suggestions, and keyword-based trending detection.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 
