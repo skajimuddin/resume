@@ -1,9 +1,0 @@
-Fix summery
-
-check skills add remove if needed
-
-then next other sections
-
-
-I NEED TO MENTION MVC ARCATECTURE<
-LIS hardware
