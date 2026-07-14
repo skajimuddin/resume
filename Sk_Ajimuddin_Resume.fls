@@ -1,9 +1,9 @@
-PWD /home/sk-azim/Desktop/Resume
+PWD /home/sk-azim/Desktop/Zeonweb/Resume
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/sk-azim/Desktop/Resume/Sk_Ajimuddin_Resume.tex
+INPUT /home/sk-azim/Desktop/Zeonweb/Resume/Sk_Ajimuddin_Resume.tex
 OUTPUT Sk_Ajimuddin_Resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
